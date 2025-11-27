@@ -3,8 +3,8 @@ from pathlib import Path
 from pypdf import PdfReader, PdfWriter, PaperSize, Transformation
 
 # --- Configuration (Adjust these paths) ---
-INPUT_FOLDER = "C:/Users/atan82/Downloads/input"
-OUTPUT_FOLDER = "C:/Users/atan82/Downloads/output"
+INPUT_FOLDER = "D:/src/loy/python/pdf-6-per-page-converter/input"
+OUTPUT_FOLDER = "D:/src/loy/python/pdf-6-per-page-converter/output"
 PAGES_PER_SHEET = 6
 COLUMNS = 3
 ROWS = 2
